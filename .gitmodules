@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FASeg"]
+	path = FASeg
+	url = https://github.com/cran/FASeg
+	shallow = true
+	registered = true
